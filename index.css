@@ -1,0 +1,25 @@
+body {
+	background-color:#e6e6ff;	
+}
+h1 {
+	text-align: center;
+	font-family: Courier New, monospace;
+	color: darkblue;
+	text-shadow: black;
+	text-decoration: underline;
+}
+p {
+	text-align: center;
+	font-family: Courier New, monospace;
+}
+canvas {
+	display: block;
+	width: 50vw;
+    height: 70vh;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
